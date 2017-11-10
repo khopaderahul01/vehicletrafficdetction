@@ -1,0 +1,15 @@
+E:\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.exe
+E:\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.pdb
+E:\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.CV.dll
+E:\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.dll
+E:\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.Util.dll
+E:\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\ZedGraph.dll
+E:\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.CV.xml
+E:\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.xml
+E:\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.Util.xml
+E:\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.csprojResolveAssemblyReference.cache
+E:\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form1.resources
+E:\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Properties.Resources.resources
+E:\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.csproj.GenerateResource.Cache
+E:\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.exe
+E:\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.pdb

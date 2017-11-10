@@ -1,0 +1,508 @@
+E:\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.exe
+E:\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.pdb
+E:\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.CV.dll
+E:\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.dll
+E:\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.Util.dll
+E:\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\ZedGraph.dll
+E:\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.CV.xml
+E:\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.xml
+E:\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.Util.xml
+E:\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\ZedGraph.xml
+E:\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\zh-CN\ZedGraph.resources.dll
+E:\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csprojResolveAssemblyReference.cache
+E:\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form1.resources
+E:\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Properties.Resources.resources
+E:\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csproj.GenerateResource.Cache
+E:\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.exe
+E:\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.pdb
+G:\Project Completed\Vehicle Count\Vehicle Count EMGUCV\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.exe
+G:\Project Completed\Vehicle Count\Vehicle Count EMGUCV\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.pdb
+G:\Project Completed\Vehicle Count\Vehicle Count EMGUCV\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.exe
+G:\Project Completed\Vehicle Count\Vehicle Count EMGUCV\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.pdb
+G:\Project Completed\Vehicle Count\Vehicle Count EMGUCV\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.CV.dll
+G:\Project Completed\Vehicle Count\Vehicle Count EMGUCV\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.dll
+G:\Project Completed\Vehicle Count\Vehicle Count EMGUCV\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.Util.dll
+G:\Project Completed\Vehicle Count\Vehicle Count EMGUCV\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\ZedGraph.dll
+G:\Project Completed\Vehicle Count\Vehicle Count EMGUCV\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.CV.xml
+G:\Project Completed\Vehicle Count\Vehicle Count EMGUCV\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.xml
+G:\Project Completed\Vehicle Count\Vehicle Count EMGUCV\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.Util.xml
+G:\Project Completed\Vehicle Count\Vehicle Count EMGUCV\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\ZedGraph.xml
+G:\Project Completed\Vehicle Count\Vehicle Count EMGUCV\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\zh-CN\ZedGraph.resources.dll
+G:\Project Completed\Vehicle Count\Vehicle Count EMGUCV\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csprojResolveAssemblyReference.cache
+G:\Project Completed\Vehicle Count\Vehicle Count EMGUCV\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form1.resources
+G:\Project Completed\Vehicle Count\Vehicle Count EMGUCV\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Properties.Resources.resources
+G:\Project Completed\Vehicle Count\Vehicle Count EMGUCV\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csproj.GenerateResource.Cache
+G:\New projects\Vehicle Count\Vehicle Count EMGUCV\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.exe
+G:\New projects\Vehicle Count\Vehicle Count EMGUCV\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.pdb
+G:\New projects\Vehicle Count\Vehicle Count EMGUCV\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.CV.dll
+G:\New projects\Vehicle Count\Vehicle Count EMGUCV\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.dll
+G:\New projects\Vehicle Count\Vehicle Count EMGUCV\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.Util.dll
+G:\New projects\Vehicle Count\Vehicle Count EMGUCV\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\ZedGraph.dll
+G:\New projects\Vehicle Count\Vehicle Count EMGUCV\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.CV.xml
+G:\New projects\Vehicle Count\Vehicle Count EMGUCV\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.xml
+G:\New projects\Vehicle Count\Vehicle Count EMGUCV\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.Util.xml
+G:\New projects\Vehicle Count\Vehicle Count EMGUCV\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form1.resources
+G:\New projects\Vehicle Count\Vehicle Count EMGUCV\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Properties.Resources.resources
+G:\New projects\Vehicle Count\Vehicle Count EMGUCV\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csproj.GenerateResource.Cache
+G:\New projects\Vehicle Count\Vehicle Count EMGUCV\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.exe
+G:\New projects\Vehicle Count\Vehicle Count EMGUCV\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.pdb
+C:\Users\User\Desktop\Traffic management system\FinalGUIVideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.pdb
+C:\Users\User\Desktop\Traffic management system\FinalGUIVideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Traffic management system\FinalGUIVideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form1.resources
+C:\Users\User\Desktop\Traffic management system\FinalGUIVideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Properties.Resources.resources
+C:\Users\User\Desktop\Traffic management system\FinalGUIVideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csproj.GenerateResource.Cache
+G:\Traffic management system\FinalGUIVideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form1.resources
+G:\Traffic management system\FinalGUIVideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Properties.Resources.resources
+G:\Traffic management system\FinalGUIVideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csproj.GenerateResource.Cache
+G:\Traffic management system\FinalGUIVideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.pdb
+G:\Traffic management system\FinalGUIVideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csprojResolveAssemblyReference.cache
+G:\Traffic management system\FinalGUIVideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.exe
+G:\Traffic management system\FinalGUIVideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.pdb
+G:\Traffic management system\FinalGUIVideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.CV.dll
+G:\Traffic management system\FinalGUIVideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.dll
+G:\Traffic management system\FinalGUIVideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.Util.dll
+G:\Traffic management system\FinalGUIVideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\ZedGraph.dll
+G:\Traffic management system\FinalGUIVideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.CV.xml
+G:\Traffic management system\FinalGUIVideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.xml
+G:\Traffic management system\FinalGUIVideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.Util.xml
+G:\Traffic management system\FinalGUIVideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\ZedGraph.xml
+G:\Traffic management system\FinalGUIVideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\zh-CN\ZedGraph.resources.dll
+G:\Traffic management system\FinalGUIVideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.exe
+C:\Users\AAJ\Downloads\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.exe
+C:\Users\AAJ\Downloads\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.pdb
+C:\Users\AAJ\Downloads\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.exe
+C:\Users\AAJ\Downloads\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.pdb
+C:\Users\AAJ\Downloads\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.CV.dll
+C:\Users\AAJ\Downloads\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.dll
+C:\Users\AAJ\Downloads\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.Util.dll
+C:\Users\AAJ\Downloads\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\ZedGraph.dll
+C:\Users\AAJ\Downloads\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.CV.xml
+C:\Users\AAJ\Downloads\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.xml
+C:\Users\AAJ\Downloads\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.Util.xml
+C:\Users\AAJ\Downloads\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csprojResolveAssemblyReference.cache
+C:\Users\AAJ\Downloads\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form1.resources
+C:\Users\AAJ\Downloads\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Properties.Resources.resources
+C:\Users\AAJ\Downloads\VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csproj.GenerateResource.Cache
+C:\Users\AAC-SG-LAP\Downloads\VideoCaptureDemo (1)\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.exe
+C:\Users\AAC-SG-LAP\Downloads\VideoCaptureDemo (1)\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.pdb
+D:\atul i back\OPULENT\projects\Dotnet\2015-16\Traffic sign\FULL VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.exe
+D:\atul i back\OPULENT\projects\Dotnet\2015-16\Traffic sign\FULL VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.pdb
+D:\atul i back\OPULENT\projects\Dotnet\2015-16\Traffic sign\FULL VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.CV.dll
+D:\atul i back\OPULENT\projects\Dotnet\2015-16\Traffic sign\FULL VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.dll
+D:\atul i back\OPULENT\projects\Dotnet\2015-16\Traffic sign\FULL VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.Util.dll
+D:\atul i back\OPULENT\projects\Dotnet\2015-16\Traffic sign\FULL VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\ZedGraph.dll
+D:\atul i back\OPULENT\projects\Dotnet\2015-16\Traffic sign\FULL VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.CV.xml
+D:\atul i back\OPULENT\projects\Dotnet\2015-16\Traffic sign\FULL VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.xml
+D:\atul i back\OPULENT\projects\Dotnet\2015-16\Traffic sign\FULL VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.Util.xml
+D:\atul i back\OPULENT\projects\Dotnet\2015-16\Traffic sign\FULL VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\ZedGraph.xml
+D:\atul i back\OPULENT\projects\Dotnet\2015-16\Traffic sign\FULL VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\zh-CN\ZedGraph.resources.dll
+D:\atul i back\OPULENT\projects\Dotnet\2015-16\Traffic sign\FULL VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csprojResolveAssemblyReference.cache
+D:\atul i back\OPULENT\projects\Dotnet\2015-16\Traffic sign\FULL VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form1.resources
+D:\atul i back\OPULENT\projects\Dotnet\2015-16\Traffic sign\FULL VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form2.resources
+D:\atul i back\OPULENT\projects\Dotnet\2015-16\Traffic sign\FULL VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Properties.Resources.resources
+D:\atul i back\OPULENT\projects\Dotnet\2015-16\Traffic sign\FULL VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csproj.GenerateResource.Cache
+D:\atul i back\OPULENT\projects\Dotnet\2015-16\Traffic sign\FULL VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.exe
+D:\atul i back\OPULENT\projects\Dotnet\2015-16\Traffic sign\FULL VideoCaptureDemo\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\project_program\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\project_program\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\project_program\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\project_program\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\project_program\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.CV.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\project_program\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\project_program\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.Util.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\project_program\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\ZedGraph.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\project_program\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.CV.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\project_program\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\project_program\VideoCaptureDemo\VideoCaptureDemo\bin\Debug\Emgu.Util.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\project_program\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\project_program\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form1.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\project_program\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form2.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\project_program\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\project_program\VideoCaptureDemo\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csproj.GenerateResource.Cache
+G:\project\project\VideoCaptureDemo1\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.exe
+G:\project\project\VideoCaptureDemo1\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.pdb
+G:\project\project\VideoCaptureDemo1\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.exe
+G:\project\project\VideoCaptureDemo1\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.pdb
+G:\project\project\VideoCaptureDemo1\VideoCaptureDemo\bin\Debug\Emgu.CV.dll
+G:\project\project\VideoCaptureDemo1\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.dll
+G:\project\project\VideoCaptureDemo1\VideoCaptureDemo\bin\Debug\Emgu.Util.dll
+G:\project\project\VideoCaptureDemo1\VideoCaptureDemo\bin\Debug\ZedGraph.dll
+G:\project\project\VideoCaptureDemo1\VideoCaptureDemo\bin\Debug\Emgu.CV.xml
+G:\project\project\VideoCaptureDemo1\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.xml
+G:\project\project\VideoCaptureDemo1\VideoCaptureDemo\bin\Debug\Emgu.Util.xml
+G:\project\project\VideoCaptureDemo1\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csprojResolveAssemblyReference.cache
+G:\project\project\VideoCaptureDemo1\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form1.resources
+G:\project\project\VideoCaptureDemo1\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form2.resources
+G:\project\project\VideoCaptureDemo1\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Properties.Resources.resources
+G:\project\project\VideoCaptureDemo1\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csproj.GenerateResource.Cache
+G:\project\project_program\donotchange\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.exe
+G:\project\project_program\donotchange\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.pdb
+G:\project\project_program\donotchange\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.exe
+G:\project\project_program\donotchange\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.pdb
+G:\project\project_program\donotchange\VideoCaptureDemo\bin\Debug\Emgu.CV.dll
+G:\project\project_program\donotchange\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.dll
+G:\project\project_program\donotchange\VideoCaptureDemo\bin\Debug\Emgu.Util.dll
+G:\project\project_program\donotchange\VideoCaptureDemo\bin\Debug\ZedGraph.dll
+G:\project\project_program\donotchange\VideoCaptureDemo\bin\Debug\Emgu.CV.xml
+G:\project\project_program\donotchange\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.xml
+G:\project\project_program\donotchange\VideoCaptureDemo\bin\Debug\Emgu.Util.xml
+G:\project\project_program\donotchange\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csprojResolveAssemblyReference.cache
+G:\project\project_program\donotchange\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form1.resources
+G:\project\project_program\donotchange\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form2.resources
+G:\project\project_program\donotchange\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Properties.Resources.resources
+G:\project\project_program\donotchange\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csproj.GenerateResource.Cache
+G:\project\project_program\donotchange - Copy\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.exe
+G:\project\project_program\donotchange - Copy\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.pdb
+G:\project\project_program\donotchange - Copy\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.exe
+G:\project\project_program\donotchange - Copy\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.pdb
+G:\project\project_program\donotchange - Copy\VideoCaptureDemo\bin\Debug\Emgu.CV.dll
+G:\project\project_program\donotchange - Copy\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.dll
+G:\project\project_program\donotchange - Copy\VideoCaptureDemo\bin\Debug\Emgu.Util.dll
+G:\project\project_program\donotchange - Copy\VideoCaptureDemo\bin\Debug\ZedGraph.dll
+G:\project\project_program\donotchange - Copy\VideoCaptureDemo\bin\Debug\Emgu.CV.xml
+G:\project\project_program\donotchange - Copy\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.xml
+G:\project\project_program\donotchange - Copy\VideoCaptureDemo\bin\Debug\Emgu.Util.xml
+G:\project\project_program\donotchange - Copy\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csprojResolveAssemblyReference.cache
+G:\project\project_program\donotchange - Copy\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form1.resources
+G:\project\project_program\donotchange - Copy\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form2.resources
+G:\project\project_program\donotchange - Copy\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Properties.Resources.resources
+G:\project\project_program\donotchange - Copy\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csproj.GenerateResource.Cache
+C:\Users\Neha Kumari\Pictures\Desktop\report\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.exe
+C:\Users\Neha Kumari\Pictures\Desktop\report\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.pdb
+C:\Users\Neha Kumari\Pictures\Desktop\report\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.exe
+C:\Users\Neha Kumari\Pictures\Desktop\report\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.pdb
+C:\Users\Neha Kumari\Pictures\Desktop\report\VideoCaptureDemo\bin\Debug\Emgu.CV.dll
+C:\Users\Neha Kumari\Pictures\Desktop\report\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Neha Kumari\Pictures\Desktop\report\VideoCaptureDemo\bin\Debug\Emgu.Util.dll
+C:\Users\Neha Kumari\Pictures\Desktop\report\VideoCaptureDemo\bin\Debug\ZedGraph.dll
+C:\Users\Neha Kumari\Pictures\Desktop\report\VideoCaptureDemo\bin\Debug\Emgu.CV.xml
+C:\Users\Neha Kumari\Pictures\Desktop\report\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Neha Kumari\Pictures\Desktop\report\VideoCaptureDemo\bin\Debug\Emgu.Util.xml
+C:\Users\Neha Kumari\Pictures\Desktop\report\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csprojResolveAssemblyReference.cache
+C:\Users\Neha Kumari\Pictures\Desktop\report\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form1.resources
+C:\Users\Neha Kumari\Pictures\Desktop\report\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form2.resources
+C:\Users\Neha Kumari\Pictures\Desktop\report\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Properties.Resources.resources
+C:\Users\Neha Kumari\Pictures\Desktop\report\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csproj.GenerateResource.Cache
+C:\Users\Neha Kumari\Pictures\Desktop\MyApplication\report\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.exe
+C:\Users\Neha Kumari\Pictures\Desktop\MyApplication\report\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.pdb
+C:\Users\Neha Kumari\Pictures\Desktop\MyApplication\report\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.exe
+C:\Users\Neha Kumari\Pictures\Desktop\MyApplication\report\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.pdb
+C:\Users\Neha Kumari\Pictures\Desktop\MyApplication\report\VideoCaptureDemo\bin\Debug\Emgu.CV.dll
+C:\Users\Neha Kumari\Pictures\Desktop\MyApplication\report\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Neha Kumari\Pictures\Desktop\MyApplication\report\VideoCaptureDemo\bin\Debug\Emgu.Util.dll
+C:\Users\Neha Kumari\Pictures\Desktop\MyApplication\report\VideoCaptureDemo\bin\Debug\ZedGraph.dll
+C:\Users\Neha Kumari\Pictures\Desktop\MyApplication\report\VideoCaptureDemo\bin\Debug\Emgu.CV.xml
+C:\Users\Neha Kumari\Pictures\Desktop\MyApplication\report\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Neha Kumari\Pictures\Desktop\MyApplication\report\VideoCaptureDemo\bin\Debug\Emgu.Util.xml
+C:\Users\Neha Kumari\Pictures\Desktop\MyApplication\report\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csprojResolveAssemblyReference.cache
+C:\Users\Neha Kumari\Pictures\Desktop\MyApplication\report\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form1.resources
+C:\Users\Neha Kumari\Pictures\Desktop\MyApplication\report\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form2.resources
+C:\Users\Neha Kumari\Pictures\Desktop\MyApplication\report\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Properties.Resources.resources
+C:\Users\Neha Kumari\Pictures\Desktop\MyApplication\report\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csproj.GenerateResource.Cache
+D:\Mentorship Program\projects\Traffic management system\New Final 05.05\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.exe
+D:\Mentorship Program\projects\Traffic management system\New Final 05.05\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.pdb
+D:\Mentorship Program\projects\Traffic management system\New Final 05.05\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.exe
+D:\Mentorship Program\projects\Traffic management system\New Final 05.05\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.pdb
+D:\Mentorship Program\projects\Traffic management system\New Final 05.05\VideoCaptureDemo\bin\Debug\Emgu.CV.dll
+D:\Mentorship Program\projects\Traffic management system\New Final 05.05\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.dll
+D:\Mentorship Program\projects\Traffic management system\New Final 05.05\VideoCaptureDemo\bin\Debug\Emgu.Util.dll
+D:\Mentorship Program\projects\Traffic management system\New Final 05.05\VideoCaptureDemo\bin\Debug\ZedGraph.dll
+D:\Mentorship Program\projects\Traffic management system\New Final 05.05\VideoCaptureDemo\bin\Debug\Emgu.CV.xml
+D:\Mentorship Program\projects\Traffic management system\New Final 05.05\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.xml
+D:\Mentorship Program\projects\Traffic management system\New Final 05.05\VideoCaptureDemo\bin\Debug\Emgu.Util.xml
+D:\Mentorship Program\projects\Traffic management system\New Final 05.05\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csprojResolveAssemblyReference.cache
+D:\Mentorship Program\projects\Traffic management system\New Final 05.05\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form1.resources
+D:\Mentorship Program\projects\Traffic management system\New Final 05.05\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form2.resources
+D:\Mentorship Program\projects\Traffic management system\New Final 05.05\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Properties.Resources.resources
+D:\Mentorship Program\projects\Traffic management system\New Final 05.05\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csproj.GenerateResource.Cache
+D:\Mentorship Program\projects\Traffic management system\vinayak5may\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.exe
+D:\Mentorship Program\projects\Traffic management system\vinayak5may\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.pdb
+D:\Mentorship Program\projects\Traffic management system\vinayak5may\VideoCaptureDemo\bin\Debug\Emgu.CV.dll
+D:\Mentorship Program\projects\Traffic management system\vinayak5may\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.dll
+D:\Mentorship Program\projects\Traffic management system\vinayak5may\VideoCaptureDemo\bin\Debug\Emgu.Util.dll
+D:\Mentorship Program\projects\Traffic management system\vinayak5may\VideoCaptureDemo\bin\Debug\ZedGraph.dll
+D:\Mentorship Program\projects\Traffic management system\vinayak5may\VideoCaptureDemo\bin\Debug\Emgu.CV.xml
+D:\Mentorship Program\projects\Traffic management system\vinayak5may\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.xml
+D:\Mentorship Program\projects\Traffic management system\vinayak5may\VideoCaptureDemo\bin\Debug\Emgu.Util.xml
+D:\Mentorship Program\projects\Traffic management system\vinayak5may\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form1.resources
+D:\Mentorship Program\projects\Traffic management system\vinayak5may\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form2.resources
+D:\Mentorship Program\projects\Traffic management system\vinayak5may\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Properties.Resources.resources
+D:\Mentorship Program\projects\Traffic management system\vinayak5may\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csproj.GenerateResource.Cache
+D:\Mentorship Program\projects\Traffic management system\vinayak5may\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.exe
+D:\Mentorship Program\projects\Traffic management system\vinayak5may\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.pdb
+E:\sohamModified\6may\vinayak5may\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.exe
+E:\sohamModified\6may\vinayak5may\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.pdb
+E:\sohamModified\6may\vinayak5may\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.exe
+E:\sohamModified\6may\vinayak5may\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.pdb
+E:\sohamModified\6may\vinayak5may\VideoCaptureDemo\bin\Debug\Emgu.CV.dll
+E:\sohamModified\6may\vinayak5may\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.dll
+E:\sohamModified\6may\vinayak5may\VideoCaptureDemo\bin\Debug\Emgu.Util.dll
+E:\sohamModified\6may\vinayak5may\VideoCaptureDemo\bin\Debug\ZedGraph.dll
+E:\sohamModified\6may\vinayak5may\VideoCaptureDemo\bin\Debug\Emgu.CV.xml
+E:\sohamModified\6may\vinayak5may\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.xml
+E:\sohamModified\6may\vinayak5may\VideoCaptureDemo\bin\Debug\Emgu.Util.xml
+E:\sohamModified\6may\vinayak5may\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csprojResolveAssemblyReference.cache
+E:\sohamModified\6may\vinayak5may\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form1.resources
+E:\sohamModified\6may\vinayak5may\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form2.resources
+E:\sohamModified\6may\vinayak5may\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Properties.Resources.resources
+E:\sohamModified\6may\vinayak5may\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csproj.GenerateResource.Cache
+E:\sohamModified\6may\vinayak10may\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.exe
+E:\sohamModified\6may\vinayak10may\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.pdb
+E:\sohamModified\6may\vinayak10may\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.exe
+E:\sohamModified\6may\vinayak10may\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.pdb
+E:\sohamModified\6may\vinayak10may\VideoCaptureDemo\bin\Debug\Emgu.CV.dll
+E:\sohamModified\6may\vinayak10may\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.dll
+E:\sohamModified\6may\vinayak10may\VideoCaptureDemo\bin\Debug\Emgu.Util.dll
+E:\sohamModified\6may\vinayak10may\VideoCaptureDemo\bin\Debug\ZedGraph.dll
+E:\sohamModified\6may\vinayak10may\VideoCaptureDemo\bin\Debug\Emgu.CV.xml
+E:\sohamModified\6may\vinayak10may\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.xml
+E:\sohamModified\6may\vinayak10may\VideoCaptureDemo\bin\Debug\Emgu.Util.xml
+E:\sohamModified\6may\vinayak10may\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csprojResolveAssemblyReference.cache
+E:\sohamModified\6may\vinayak10may\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form1.resources
+E:\sohamModified\6may\vinayak10may\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form2.resources
+E:\sohamModified\6may\vinayak10may\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Properties.Resources.resources
+E:\sohamModified\6may\vinayak10may\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csproj.GenerateResource.Cache
+E:\sohamModified\6may\vinayak13may\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.exe
+E:\sohamModified\6may\vinayak13may\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.pdb
+E:\sohamModified\6may\vinayak13may\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.exe
+E:\sohamModified\6may\vinayak13may\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.pdb
+E:\sohamModified\6may\vinayak13may\VideoCaptureDemo\bin\Debug\Emgu.CV.dll
+E:\sohamModified\6may\vinayak13may\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.dll
+E:\sohamModified\6may\vinayak13may\VideoCaptureDemo\bin\Debug\Emgu.Util.dll
+E:\sohamModified\6may\vinayak13may\VideoCaptureDemo\bin\Debug\ZedGraph.dll
+E:\sohamModified\6may\vinayak13may\VideoCaptureDemo\bin\Debug\Emgu.CV.xml
+E:\sohamModified\6may\vinayak13may\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.xml
+E:\sohamModified\6may\vinayak13may\VideoCaptureDemo\bin\Debug\Emgu.Util.xml
+E:\sohamModified\6may\vinayak13may\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csprojResolveAssemblyReference.cache
+E:\sohamModified\6may\vinayak13may\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form1.resources
+E:\sohamModified\6may\vinayak13may\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form2.resources
+E:\sohamModified\6may\vinayak13may\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Properties.Resources.resources
+E:\sohamModified\6may\vinayak13may\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csproj.GenerateResource.Cache
+E:\FinalProjects26May\Traffic Control\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.exe
+E:\FinalProjects26May\Traffic Control\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.pdb
+E:\FinalProjects26May\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.dll
+E:\FinalProjects26May\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.dll
+E:\FinalProjects26May\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.Util.dll
+E:\FinalProjects26May\Traffic Control\VideoCaptureDemo\bin\Debug\ZedGraph.dll
+E:\FinalProjects26May\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.xml
+E:\FinalProjects26May\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.xml
+E:\FinalProjects26May\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.Util.xml
+E:\FinalProjects26May\Traffic Control\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csprojResolveAssemblyReference.cache
+E:\FinalProjects26May\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form1.resources
+E:\FinalProjects26May\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form2.resources
+E:\FinalProjects26May\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Properties.Resources.resources
+E:\FinalProjects26May\Traffic Control\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csproj.GenerateResource.Cache
+E:\FinalProjects26May\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.exe
+E:\FinalProjects26May\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.pdb
+E:\Final_Backup_8June\FinalProjects26May\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.exe
+E:\Final_Backup_8June\FinalProjects26May\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.pdb
+E:\Final_Backup_8June\FinalProjects26May\Traffic Control\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.exe
+E:\Final_Backup_8June\FinalProjects26May\Traffic Control\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.pdb
+E:\Final_Backup_8June\FinalProjects26May\Traffic Control\VideoCaptureDemo\bin\Debug\ZedGraph.dll
+E:\Final_Backup_8June\FinalProjects26May\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.xml
+E:\Final_Backup_8June\FinalProjects26May\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.xml
+E:\Final_Backup_8June\FinalProjects26May\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.Util.xml
+E:\Final_Backup_8June\FinalProjects26May\Traffic Control\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csprojResolveAssemblyReference.cache
+E:\Final_Backup_8June\FinalProjects26May\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form1.resources
+E:\Final_Backup_8June\FinalProjects26May\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form2.resources
+E:\Final_Backup_8June\FinalProjects26May\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Properties.Resources.resources
+E:\Final_Backup_8June\FinalProjects26May\Traffic Control\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csproj.GenerateResource.Cache
+E:\Final_Backup_8June\FinalProjects26May\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.dll
+E:\Final_Backup_8June\FinalProjects26May\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.dll
+E:\Final_Backup_8June\FinalProjects26May\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.Util.dll
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M3_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.exe
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M3_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.pdb
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M3_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.exe
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M3_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.pdb
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M3_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.dll
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M3_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.dll
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M3_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.Util.dll
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M3_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\bin\Debug\ZedGraph.dll
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M3_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.xml
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M3_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.xml
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M3_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.Util.xml
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M3_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csprojResolveAssemblyReference.cache
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M3_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form1.resources
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M3_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form2.resources
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M3_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Properties.Resources.resources
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M3_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csproj.GenerateResource.Cache
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M4_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.exe
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M4_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.pdb
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M4_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csprojResolveAssemblyReference.cache
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M4_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form1.resources
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M4_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form2.resources
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M4_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Properties.Resources.resources
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M4_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csproj.GenerateResource.Cache
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M4_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.exe
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M4_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.pdb
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M4_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.dll
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M4_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.dll
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M4_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.Util.dll
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M4_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\bin\Debug\ZedGraph.dll
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M4_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.xml
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M4_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.xml
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M4_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.Util.xml
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M5_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.exe
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M5_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.pdb
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M5_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.exe
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M5_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.pdb
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M5_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.dll
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M5_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.dll
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M5_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.Util.dll
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M5_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\bin\Debug\ZedGraph.dll
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M5_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.xml
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M5_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.xml
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M5_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.Util.xml
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M5_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csprojResolveAssemblyReference.cache
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M5_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form1.resources
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M5_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form2.resources
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M5_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Properties.Resources.resources
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M5_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csproj.GenerateResource.Cache
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M5_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\bin\Debug\SmsClient.dll
+E:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M5_Smart Traffic Management using Image Processing\Traffic Control\VideoCaptureDemo\bin\Debug\SMSClassLibrary.dll
+D:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M4_S136_Priority Vehicle detection and Notification\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.exe
+D:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M4_S136_Priority Vehicle detection and Notification\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.pdb
+D:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M4_S136_Priority Vehicle detection and Notification\Traffic Control\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.exe
+D:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M4_S136_Priority Vehicle detection and Notification\Traffic Control\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.pdb
+D:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M4_S136_Priority Vehicle detection and Notification\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.dll
+D:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M4_S136_Priority Vehicle detection and Notification\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.dll
+D:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M4_S136_Priority Vehicle detection and Notification\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.Util.dll
+D:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M4_S136_Priority Vehicle detection and Notification\Traffic Control\VideoCaptureDemo\bin\Debug\SMSClassLibrary.dll
+D:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M4_S136_Priority Vehicle detection and Notification\Traffic Control\VideoCaptureDemo\bin\Debug\SmsClient.dll
+D:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M4_S136_Priority Vehicle detection and Notification\Traffic Control\VideoCaptureDemo\bin\Debug\ZedGraph.dll
+D:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M4_S136_Priority Vehicle detection and Notification\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.xml
+D:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M4_S136_Priority Vehicle detection and Notification\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.xml
+D:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M4_S136_Priority Vehicle detection and Notification\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.Util.xml
+D:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M4_S136_Priority Vehicle detection and Notification\Traffic Control\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csprojResolveAssemblyReference.cache
+D:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M4_S136_Priority Vehicle detection and Notification\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form1.resources
+D:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M4_S136_Priority Vehicle detection and Notification\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form2.resources
+D:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M4_S136_Priority Vehicle detection and Notification\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Properties.Resources.resources
+D:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\M4_S136_Priority Vehicle detection and Notification\Traffic Control\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csproj.GenerateResource.Cache
+D:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\RMDSTITBE317\M4_S136_Priority Vehicle detection and Notification\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.exe
+D:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\RMDSTITBE317\M4_S136_Priority Vehicle detection and Notification\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.pdb
+D:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\RMDSTITBE317\M4_S136_Priority Vehicle detection and Notification\Traffic Control\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.exe
+D:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\RMDSTITBE317\M4_S136_Priority Vehicle detection and Notification\Traffic Control\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.pdb
+D:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\RMDSTITBE317\M4_S136_Priority Vehicle detection and Notification\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.dll
+D:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\RMDSTITBE317\M4_S136_Priority Vehicle detection and Notification\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.dll
+D:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\RMDSTITBE317\M4_S136_Priority Vehicle detection and Notification\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.Util.dll
+D:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\RMDSTITBE317\M4_S136_Priority Vehicle detection and Notification\Traffic Control\VideoCaptureDemo\bin\Debug\ZedGraph.dll
+D:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\RMDSTITBE317\M4_S136_Priority Vehicle detection and Notification\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.xml
+D:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\RMDSTITBE317\M4_S136_Priority Vehicle detection and Notification\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.xml
+D:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\RMDSTITBE317\M4_S136_Priority Vehicle detection and Notification\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.Util.xml
+D:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\RMDSTITBE317\M4_S136_Priority Vehicle detection and Notification\Traffic Control\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csprojResolveAssemblyReference.cache
+D:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\RMDSTITBE317\M4_S136_Priority Vehicle detection and Notification\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form1.resources
+D:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\RMDSTITBE317\M4_S136_Priority Vehicle detection and Notification\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form2.resources
+D:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\RMDSTITBE317\M4_S136_Priority Vehicle detection and Notification\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Properties.Resources.resources
+D:\2016-2017 modulewise projects\S136-Smart traffic management using image processing\RMDSTITBE317\M4_S136_Priority Vehicle detection and Notification\Traffic Control\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csproj.GenerateResource.Cache
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\RMDSTITBE317\M5_S136_FInal\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.exe
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\RMDSTITBE317\M5_S136_FInal\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.pdb
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\RMDSTITBE317\M5_S136_FInal\Traffic Control\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.exe
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\RMDSTITBE317\M5_S136_FInal\Traffic Control\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.pdb
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\RMDSTITBE317\M5_S136_FInal\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.dll
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\RMDSTITBE317\M5_S136_FInal\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.dll
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\RMDSTITBE317\M5_S136_FInal\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.Util.dll
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\RMDSTITBE317\M5_S136_FInal\Traffic Control\VideoCaptureDemo\bin\Debug\ZedGraph.dll
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\RMDSTITBE317\M5_S136_FInal\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.xml
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\RMDSTITBE317\M5_S136_FInal\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.xml
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\RMDSTITBE317\M5_S136_FInal\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.Util.xml
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\RMDSTITBE317\M5_S136_FInal\Traffic Control\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csprojResolveAssemblyReference.cache
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\RMDSTITBE317\M5_S136_FInal\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form1.resources
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\RMDSTITBE317\M5_S136_FInal\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form2.resources
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\RMDSTITBE317\M5_S136_FInal\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Properties.Resources.resources
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\RMDSTITBE317\M5_S136_FInal\Traffic Control\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csproj.GenerateResource.Cache
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\RMDSTITBE317\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.exe
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\RMDSTITBE317\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.pdb
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\RMDSTITBE317\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.exe
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\RMDSTITBE317\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.pdb
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\RMDSTITBE317\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.dll
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\RMDSTITBE317\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.dll
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\RMDSTITBE317\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.Util.dll
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\RMDSTITBE317\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\ZedGraph.dll
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\RMDSTITBE317\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.xml
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\RMDSTITBE317\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.xml
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\RMDSTITBE317\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.Util.xml
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\RMDSTITBE317\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csprojResolveAssemblyReference.cache
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\RMDSTITBE317\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form1.resources
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\RMDSTITBE317\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form2.resources
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\RMDSTITBE317\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Properties.Resources.resources
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\RMDSTITBE317\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csproj.GenerateResource.Cache
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.exe
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.pdb
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.exe
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.pdb
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.dll
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.dll
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.Util.dll
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\ZedGraph.dll
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.xml
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.xml
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.Util.xml
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csprojResolveAssemblyReference.cache
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form1.resources
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form2.resources
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Properties.Resources.resources
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csproj.GenerateResource.Cache
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\1Feb\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.exe
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\1Feb\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.pdb
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\1Feb\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.exe
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\1Feb\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.pdb
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\1Feb\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.dll
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\1Feb\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.dll
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\1Feb\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.Util.dll
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\1Feb\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\ZedGraph.dll
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\1Feb\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.xml
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\1Feb\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.xml
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\1Feb\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.Util.xml
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\1Feb\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csprojResolveAssemblyReference.cache
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\1Feb\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form1.resources
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\1Feb\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form2.resources
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\1Feb\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Properties.Resources.resources
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\1Feb\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csproj.GenerateResource.Cache
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\1Feb\9feb\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.exe
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\1Feb\9feb\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.pdb
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\1Feb\9feb\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.exe
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\1Feb\9feb\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.pdb
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\1Feb\9feb\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.dll
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\1Feb\9feb\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.dll
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\1Feb\9feb\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.Util.dll
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\1Feb\9feb\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\ZedGraph.dll
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\1Feb\9feb\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.xml
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\1Feb\9feb\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.xml
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\1Feb\9feb\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.Util.xml
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\1Feb\9feb\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csprojResolveAssemblyReference.cache
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\1Feb\9feb\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form1.resources
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\1Feb\9feb\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form2.resources
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\1Feb\9feb\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Properties.Resources.resources
+D:\2016-2017_modulewise_projects\S136-Smart traffic management using image processing\28 Jan\1Feb\9feb\M6-S136-TwoAndFour\Traffic Control\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csproj.GenerateResource.Cache
+D:\2016-2017_modulewise_projects\vehicle count\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.exe
+D:\2016-2017_modulewise_projects\vehicle count\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.pdb
+D:\2016-2017_modulewise_projects\vehicle count\Traffic Control\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.exe
+D:\2016-2017_modulewise_projects\vehicle count\Traffic Control\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.pdb
+D:\2016-2017_modulewise_projects\vehicle count\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.dll
+D:\2016-2017_modulewise_projects\vehicle count\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.dll
+D:\2016-2017_modulewise_projects\vehicle count\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.Util.dll
+D:\2016-2017_modulewise_projects\vehicle count\Traffic Control\VideoCaptureDemo\bin\Debug\ZedGraph.dll
+D:\2016-2017_modulewise_projects\vehicle count\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.xml
+D:\2016-2017_modulewise_projects\vehicle count\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.xml
+D:\2016-2017_modulewise_projects\vehicle count\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.Util.xml
+D:\2016-2017_modulewise_projects\vehicle count\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form3.resources
+D:\2016-2017_modulewise_projects\vehicle count\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Properties.Resources.resources
+D:\2016-2017_modulewise_projects\vehicle count\Traffic Control\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csproj.GenerateResource.Cache
+C:\Users\AAC\Downloads\Traffic Control\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.exe
+C:\Users\AAC\Downloads\Traffic Control\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.pdb
+C:\Users\AAC\Downloads\Traffic Control\Traffic Control\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.exe
+C:\Users\AAC\Downloads\Traffic Control\Traffic Control\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.pdb
+C:\Users\AAC\Downloads\Traffic Control\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.dll
+C:\Users\AAC\Downloads\Traffic Control\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.dll
+C:\Users\AAC\Downloads\Traffic Control\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.Util.dll
+C:\Users\AAC\Downloads\Traffic Control\Traffic Control\VideoCaptureDemo\bin\Debug\ZedGraph.dll
+C:\Users\AAC\Downloads\Traffic Control\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.xml
+C:\Users\AAC\Downloads\Traffic Control\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.CV.UI.xml
+C:\Users\AAC\Downloads\Traffic Control\Traffic Control\VideoCaptureDemo\bin\Debug\Emgu.Util.xml
+C:\Users\AAC\Downloads\Traffic Control\Traffic Control\VideoCaptureDemo\bin\Debug\ZedGraph.xml
+C:\Users\AAC\Downloads\Traffic Control\Traffic Control\VideoCaptureDemo\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\AAC\Downloads\Traffic Control\Traffic Control\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csprojResolveAssemblyReference.cache
+C:\Users\AAC\Downloads\Traffic Control\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Form3.resources
+C:\Users\AAC\Downloads\Traffic Control\Traffic Control\VideoCaptureDemo\obj\x86\Debug\VideoCaptureDemo.Properties.Resources.resources
+C:\Users\AAC\Downloads\Traffic Control\Traffic Control\VideoCaptureDemo\obj\x86\Debug\Vehicle Count.csproj.GenerateResource.Cache
+C:\Users\AAC\Downloads\Traffic Control\Traffic Control\VideoCaptureDemo\bin\Debug\VideoCaptureDemo.exe.config
